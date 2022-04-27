@@ -1,0 +1,4 @@
+=: title I love lists, too
+I found this new lists.sh blogging platform which bills itself as "A microblog for lists". That's right up my alley. I bet the word "minimalist" is on the home page—yup, there it is.
+It's simple. Write lists, where items can be paragraphs. I love the simplicity.
+Maybe I can hook it up to some scripts or workflows that let me easily add lines via Raycast or something.
