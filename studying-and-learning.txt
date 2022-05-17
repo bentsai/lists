@@ -1,0 +1,6 @@
+=: title Studying and Learning
+=: list_type none
+Over the past week or so, I conducted the first two user studies in my career. I've always appreciated and had a keen interest in UX practice, but this was the first time I dabbled professionally. I loved it.
+I recruited two subject matter experts to try out a new feature one of our teams had built. I gave them a handful of tasks to perform and mainly tried to observe and listen.
+What I found so enthralling about these sessions was the amount of learning. We got to learn things about our product. What is confusing? What impression does it make? We got to learn how these particular individuals think. What is their mental model? What are their goals?
+I feel like compared to other activites in software engineering, this is one of the more dense ones in terms of learning. And learning is fun. I want to do this more!
