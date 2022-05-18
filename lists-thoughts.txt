@@ -1,0 +1,6 @@
+Would be cool to setup a Raycast command to quickly add an item to a "daily" list.
+Above might have synergy with my klog project:
+=> https://github.com/bentsai/klog
+If I have a running list that I want to keep adding or changing, I guess I update this file? Is there a point in keeping track of lists at a point in time, and when it was updated, etc?
+I also wonder about some integration with Logseq. An easy way to copy my daily note from Logseq into lists.sh.
+And Kinopio—could write a script that takes card contents and puts it into a file for lists.sh consumption.
